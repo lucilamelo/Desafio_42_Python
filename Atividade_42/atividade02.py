@@ -1,0 +1,10 @@
+nome = (input("Digite seu primeiro nome: "))
+idade = (input("Digite sua idade: "))
+tel = (input("Digite seu telefone: "))
+email = (input("Digite seu email: "))
+
+print("O seu nome é",nome,)
+print("vocÊ possui" ,idade, "anos ") 
+print("O telefone para contato é : ",tel,) 
+print("Email cadastrado: ",email,)
+print("OBRIGADO, SEU CADASTRO FOI EFETUADO COM SUCESSO!") 
